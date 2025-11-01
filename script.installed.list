@@ -1,0 +1,29 @@
+* uv
+* pipx
+* nvm
+* ghcup
+* juliaup
+* bun
+* deno
+* miniconda
+* portacle
+* rustup
+* choosenim
+* nimble
+* maven
+* gradle
+* sdkman
+  * kotlin 
+  * groovy
+  * maven
+  * gradle
+* clojure
+* texlive
+* zed
+* kitty
+* rio
+* cargo crate
+  * alacritty
+  * ttyper
+* go modules
+  * gopls
